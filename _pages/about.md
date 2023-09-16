@@ -9,7 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>room C3_2.20, building C3</p>
+    <p>room C3_2.20</p>
+    <p>building C3</p>
     <p>via A. Valerio, 6/1</p>
     <p>34127 Trieste, Italy</p>
     <p>+39 040 5587133</p>
@@ -27,3 +28,5 @@ I am Associate Professor at the [Department of Engineering and Architecture (DIA
 I teach Control Theory (Master Degree in Electrical and Systems Engineering) and Computer Vision and Pattern Recognition (Master Degree in Data Science and Scientific Computing).
  
 My research interests include Control Theory, Robotics, Machine Learning and Machine Vision.
+
+[How to get to my office](https://youtu.be/K_AH8GpHkYQ?si=Qtu9udlUoj5EPtdb)
