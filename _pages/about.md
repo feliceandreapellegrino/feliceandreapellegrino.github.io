@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: University of Trieste, DIA
+subtitle: University of Trieste, Italy
 
 profile:
   align: right
