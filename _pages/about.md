@@ -12,7 +12,7 @@ profile:
     <p>room C3_2.20, building C3</p>
     <p>via A. Valerio, 6/1</p>
     <p>34127 Trieste, Italy</p>
-    <p></p>
+    <p>[directions](https://youtu.be/K_AH8GpHkYQ?si=Qtu9udlUoj5EPtdb)</p>
     <p>+39 040 5587133</p>
 
 
