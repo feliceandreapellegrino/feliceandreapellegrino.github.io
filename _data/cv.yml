@@ -8,6 +8,30 @@
     - name: Languages
       value: Italian, English
 
+- title: Current Position
+  type: time_table
+  contents:
+    - title: Associate Professor of Automatica
+      institution: Department of Engineering and Architecture, University of Trieste, Trieste (Italy).
+      year: from 2017
+      
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Control systems
+      items: 
+        - Data-driven control
+        - Model-free control
+    - title: Robotics
+      items:
+        - Robust kinematic control
+        - Differentiable rendering for visual servoing
+        - Smart manufacturing
+    - title: Machine learning
+      items:
+        - Neural network pruning
+        - Explainable AI
+
 - title: Education
   type: time_table
   contents:
@@ -25,10 +49,6 @@
 
 - title: Experience
   type: time_table
-  contents:
-    - title: Associate Professor of Automatica
-      institution: Department of Engineering and Architecture, University of Trieste, Trieste (Italy).
-      year: from 2017
       
     - title: Assistant Professor of Automatica
       institution: Department of Electrical and Electronic Engineering, University of Trieste, Trieste (Italy).
@@ -55,22 +75,7 @@
       items: 
         - IEEE Senior Member
      
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Control systems
-      items: 
-        - Data-driven control
-        - Model-free control
-    - title: Robotics
-      items:
-        - Robust kinematic control
-        - Differentiable rendering for visual servoing
-        - Smart manufacturing
-    - title: Machine learning
-      items:
-        - Neural network pruning
-        - Explainable AI
+
 # - title: Other Interests
 #   type: list
 #   contents:
