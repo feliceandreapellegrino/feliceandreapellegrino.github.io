@@ -1,3 +1,23 @@
 "Salvato":
-  - firstname: ["Erica", "E.", "E. P.", "Erica Salvato"]
+  - firstname: ["Erica", "Erica Salvato"]
     url: https://ericasalvato.github.io/
+
+"Blanchini":
+  - firstname: ["Franco",  "Franco Blanchini"]
+    url: https://users.dimi.uniud.it/~franco.blanchini/
+
+"Giordano":
+  - firstname: ["Giulia", "Giulia Giordano"]
+    url: http://giordanogiulia.altervista.org/ 
+
+"Medvet":
+  - firstname: ["Eric", "Eric Medvet"]
+    url: https://medvet.inginf.units.it/ 
+
+"Nadizar":
+  - firstname: ["Giorgia", "Giorgia Nadizar"]
+    url: https://giorgia-nadizar.github.io/  
+
+"Zullich":
+  - firstname: ["Marco Zullich"]
+    url: https://zullich.it/ 
