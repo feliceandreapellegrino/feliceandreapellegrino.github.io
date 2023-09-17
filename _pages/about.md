@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: University of Trieste, Italy
+subtitle: Professor at University of Trieste and Co-founder of Glance Vision Technologies
 
 profile:
   align: right
@@ -29,4 +29,4 @@ I teach [Control Theory](https://moodle2.units.it/course/search.php?search=322MI
  
 My research interests include Control Theory, Machine Learning, Robotics, and Machine Vision.
 
-[How to get to my office](https://youtu.be/K_AH8GpHkYQ?si=Qtu9udlUoj5EPtdb)
+I'm a Co-founder of [Glance Vision Technologies](https://www.gvt.it/).
