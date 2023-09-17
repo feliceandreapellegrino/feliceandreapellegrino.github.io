@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Professor at University of Trieste and Co-founder of Glance Vision Technologies
+subtitle: Professor at University of Trieste, Co-founder of Glance Vision Technologies
 
 profile:
   align: right
