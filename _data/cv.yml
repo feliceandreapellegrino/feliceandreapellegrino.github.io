@@ -11,26 +11,26 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD degree
+    - title: PhD degree in Systems and Control Theory
       institution: University of Udine, Udine (Italy)
       year: 2005
       description:
-        - Constrained and optimal control (under the supervision of Prof. Franco Blanchini).
+        - Constrained and Optimal Control (under the supervision of Prof. Franco Blanchini).
 
-    - title: Master degree
+    - title: Master degree in Engineering Management
       institution: University of Udine, Udine (Italy)
       year: 2000
       description:
-        - Neural networks for control (under the supervision of Prof. Franco Blanchini).
+        - Neural Networks for Control (under the supervision of Prof. Franco Blanchini).
 
 - title: Experience
   type: time_table
   contents:
-    - title: Associate Professor of Control Theory
+    - title: Associate Professor of Automatica
       institution: Department of Engineering and Architecture, University of Trieste, Trieste (Italy).
-      year: 2017 - current
+      year: from 2017
       
-    - title: Assistant Professor
+    - title: Assistant Professor of Automatica
       institution: Department of Electrical and Electronic Engineering, University of Trieste, Trieste (Italy).
       year: 2006-2017
 
@@ -54,9 +54,9 @@
     - year: 2023
       items: 
         - IEEE Senior Member
-    # - year: 2029
-    #   items: 
-    #     - Max Planck Medal
+     - year: 2020
+       items: 
+         - The paper Gianfranco Fenu, Eric Medvet, Daniele Panfilo, and Felice Andrea Pellegrino. Mosaic Images Segmentation using U-net, Proceedings of the 9th International Conference on Pattern Recognition Applications and Methods (ICPRAM 2020) received the Best Poster Award.
 
 - title: Academic Interests
   type: nested_list
@@ -67,9 +67,13 @@
         - Model-free control
     - title: Robotics
       items:
+        - Robust kinematic control
+        - Differentiable rendering for visual servoing
         - Smart manufacturing
-        - Advanced HMI
-
+    - title: Machine learning
+      items:
+        - Neural network pruning
+        - Explainable AI
 # - title: Other Interests
 #   type: list
 #   contents:

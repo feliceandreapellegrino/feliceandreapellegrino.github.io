@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
   	
-I am Associate Professor at the [Department of Engineering and Architecture (DIA)](https://dia.units.it/), [University of Trieste](https://www.units.it/), Italy.
+I am Associate Professor of Automatica at the [Department of Engineering and Architecture (DIA)](https://dia.units.it/), [University of Trieste](https://www.units.it/), Italy.
  
 I teach [Control Theory](https://moodle2.units.it/course/search.php?search=322MI) and [Computer Vision and Pattern Recognition](https://moodle2.units.it/course/search.php?search=554sm).
  
