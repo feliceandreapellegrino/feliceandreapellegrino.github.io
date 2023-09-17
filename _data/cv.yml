@@ -54,10 +54,7 @@
     - year: 2023
       items: 
         - IEEE Senior Member
-     - year: 2020
-       items: 
-         - The paper Gianfranco Fenu, Eric Medvet, Daniele Panfilo, and Felice Andrea Pellegrino. Mosaic Images Segmentation using U-net, Proceedings of the 9th International Conference on Pattern Recognition Applications and Methods (ICPRAM 2020) received the Best Poster Award.
-
+     
 - title: Academic Interests
   type: nested_list
   contents:
