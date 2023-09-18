@@ -20,7 +20,7 @@ The course will start on **Tuesday, October 2nd, 2023**.
 The timetable is as follows:
 
 | day         | time        | room     |
-| :---        |    :----:   |          ---: |
+| :---        |    :---   |          :--- |
 | Tuesday      | 12-14       | TB, building C5   |
 | Thursday   | 12-14        | TB, building C5      |
 | Friday   | 11-12        | TB, building C5      |
