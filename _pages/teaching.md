@@ -15,7 +15,7 @@ Send me an email to arrange a meeting (possibly specifying your preferred day an
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/K_AH8GpHkYQ?si=P5c8Fattza7N1odf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 ## computer vision and pattern recognition 2023
-The course will start on **Tuesday, October 2nd, 2023**.
+The course will start on **Tuesday, October 3rd, 2023**.
 
 The timetable is as follows:
 
