@@ -18,15 +18,11 @@ Send me an email to arrange a meeting (possibly specifying your preferred day an
 The course will start on **Tuesday, October 2nd, 2023**.
 
 The timetable is as follows:
-| day           | time      | room            |
-| -----------   | ----------| -------------   |
-| Tuesday       | 12-14     | TB, building C5 |
-| Thursday      | 12-14     | TB, building C5 |
-| Friday        | 11-12     | TB, building C5 |
 
-| Syntax      | Description | Test Text     |
+| day         | time        | room     |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+| Tuesday      | 12-14       | TB, building C5   |
+| Thursday   | 12-14        | TB, building C5      |
+| Friday   | 11-12        | TB, building C5      |
 
 Students are encouraged to [register for the course on Moodle](https://moodle2.units.it/course/view.php?id=11338">https://moodle2.units.it/course/view.php?id=11338). There, I will publish the updated teaching material and the tutorial code. Furthermore, all communications relating to the course will be sent to Moodle subscribers.
