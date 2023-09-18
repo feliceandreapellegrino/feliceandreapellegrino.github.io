@@ -24,4 +24,9 @@ The timetable is as follows:
 | Thursday      | 12-14     | TB, building C5 |
 | Friday        | 11-12     | TB, building C5 |
 
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
 Students are encouraged to [register for the course on Moodle](https://moodle2.units.it/course/view.php?id=11338">https://moodle2.units.it/course/view.php?id=11338). There, I will publish the updated teaching material and the tutorial code. Furthermore, all communications relating to the course will be sent to Moodle subscribers.
