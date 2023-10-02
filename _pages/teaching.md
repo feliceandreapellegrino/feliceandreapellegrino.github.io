@@ -11,8 +11,7 @@ nav_order: 5
 Send me an email to arrange a meeting (possibly specifying your preferred day and time).
 
 [How to get to my room](https://youtu.be/K_AH8GpHkYQ?si=Qtu9udlUoj5EPtdb).
-
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/K_AH8GpHkYQ?si=P5c8Fattza7N1odf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+<video>src="https://user-images.githubusercontent.com/47215410/271945836-be66b942-61df-4217-854e-b4dcfad3a40b.mp4"</video>
 
 ## computer vision and pattern recognition 2023
 The course will start on **Tuesday, October 3, 2023**.
