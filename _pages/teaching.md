@@ -30,9 +30,9 @@ How to get to my room:
 </video>
 
 
- <td>
-    <img name="canvas" />
-</td>
+ <div  id="ciao" onmouseover="displayImage();">
+    <img src="/assets/img/prof_pic.jpg" name="canvas" />
+</div>
 
 <script>
 //create an array named imagesArray that contains the seven image file names
