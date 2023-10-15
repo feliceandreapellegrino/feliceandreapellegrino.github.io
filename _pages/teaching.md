@@ -28,16 +28,12 @@ Send me an email to arrange a meeting (possibly specifying your preferred day an
 How to get to my room:
 <video src="https://user-images.githubusercontent.com/47215410/271945836-be66b942-61df-4217-854e-b4dcfad3a40b.mp4" data-canonical-src="https://user-images.githubusercontent.com/47215410/271945836-be66b942-61df-4217-854e-b4dcfad3a40b.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px">
 </video>
-<script>
-    window.onload="displayImage();"
-</script>
 
- <div  id="test">
-    <img src="" name="canvas" />
-</div>
+
+
 
 <script>
-
+window.onload="displayImage();"
 //create an array named imagesArray that contains the seven image file names
 //dog.jpg, fox.jpg, mouse.jpg, alligator.jpg, fish.jpg, parrot.jpg and cat.jpg
 var imagesArray = [ "/assets/img/code-screenshot.png","/assets/img/prof_pic.jpg"];
@@ -52,3 +48,6 @@ function displayImage(){
 //remember the subscript values of the array are 0 to 6 (seven elements) zero based array
 //you will have to subtract 1 from the random number generated to account for the zero based array
 </script>
+ <div  id="test">
+    <img src="" name="canvas" />
+</div>
