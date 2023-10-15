@@ -31,7 +31,7 @@ How to get to my room:
 
 
  <div  id="test">
-    <img src="/assets/img/prof_pic.jpg" name="canvas" />
+    <img src="" name="canvas" />
 </div>
 
 <script>
