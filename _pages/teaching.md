@@ -30,11 +30,12 @@ How to get to my room:
 </video>
 
 
- <div  id="ciao" onmouseover="displayImage();">
+ <div  id="test">
     <img src="/assets/img/prof_pic.jpg" name="canvas" />
 </div>
 
 <script>
+    window.onload="displayImage();"
 //create an array named imagesArray that contains the seven image file names
 //dog.jpg, fox.jpg, mouse.jpg, alligator.jpg, fish.jpg, parrot.jpg and cat.jpg
 var imagesArray = ["/assets/img/prof_pic.jpg", "/assets/img/code-screenshot.png"];
@@ -42,7 +43,7 @@ var imagesArray = ["/assets/img/prof_pic.jpg", "/assets/img/code-screenshot.png"
 //it should not have any values passed into it
 function displayImage(){
     //the first statement should generate a random number in the range 0 to 6 (the subscript values of the image file names in the imagesArray)
-    var num = Math.floor(Math.random() * 3); // 0...6
+    var num = Math.floor(Math.random() * 2); // 0...6
     //the second statement display the random image from the imagesArray array in the canvas image using the random number as the subscript value
     document.canvas.src = imagesArray[num];
 }
