@@ -38,7 +38,7 @@ How to get to my room:
     window.onload="displayImage();"
 //create an array named imagesArray that contains the seven image file names
 //dog.jpg, fox.jpg, mouse.jpg, alligator.jpg, fish.jpg, parrot.jpg and cat.jpg
-var imagesArray = ["/assets/img/prof_pic.jpg", "/assets/img/code-screenshot.png"];
+var imagesArray = [ "/assets/img/code-screenshot.png","/assets/img/prof_pic.jpg"];
 //create a function named displayImage
 //it should not have any values passed into it
 function displayImage(){
