@@ -29,8 +29,10 @@ How to get to my room:
 <video src="https://user-images.githubusercontent.com/47215410/271945836-be66b942-61df-4217-854e-b4dcfad3a40b.mp4" data-canonical-src="https://user-images.githubusercontent.com/47215410/271945836-be66b942-61df-4217-854e-b4dcfad3a40b.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px">
 </video>
 
-<!-- 
 
+ <div  id="test">
+    <img src="" name="canvas" />
+</div> 
 
 <script>
 window.onload="displayImage();"
@@ -47,7 +49,5 @@ function displayImage(){
 }
 //remember the subscript values of the array are 0 to 6 (seven elements) zero based array
 //you will have to subtract 1 from the random number generated to account for the zero based array
+displayImage();
 </script>
- <div  id="test">
-    <img src="" name="canvas" />
-</div> -->
