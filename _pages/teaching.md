@@ -31,7 +31,7 @@ How to get to my room:
 
 
  <td>
-    <img src="/assets/img/prof_pic.jpg" name="canvas" />
+    <img name="canvas" />
 </td>
 
 <script>
