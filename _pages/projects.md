@@ -19,7 +19,7 @@ horizontal: true
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
- <div class="container">
+ <!-- <div class="container"> -->
     <div class="row">
       <div class="col">
           {%- for project in sorted_projects -%}
@@ -27,7 +27,7 @@ horizontal: true
           {%- endfor %}
       </div>
     </div>
-</div>
+<!-- </div> -->
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_projects -%}
@@ -42,7 +42,7 @@ horizontal: true
   {%- assign sorted_projects = site.projects | sort: "importance" -%}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
-  <div class="container">
+  <!-- <div class="container"> -->
     <div class="row">
       <div class="col">
           {%- for project in sorted_projects -%}
@@ -50,7 +50,7 @@ horizontal: true
           {%- endfor %}
       </div>
     </div>
-  </div>
+  <!-- </div> -->
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_projects -%}
