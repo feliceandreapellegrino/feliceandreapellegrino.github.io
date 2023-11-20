@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/rendering.gif
+title: Differentiable Rendering for Robotics
+description: ifferentiable rendering for visual servoing with application to smart manufacturing
+img: assets/img/rendering_compressed.gif
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: 
 ---
 
 Every project has a beautiful feature showcase page.
