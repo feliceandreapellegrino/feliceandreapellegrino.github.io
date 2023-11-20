@@ -11,7 +11,7 @@ related_publications:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/rendering_compressed.gif title="rendering" %}
+        {% include figure.html path="assets/img/rendering_compressed.gif" title="rendering" %}
     </div>
 </div>
 <div class="caption">
