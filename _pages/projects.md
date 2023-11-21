@@ -9,6 +9,15 @@ display_categories: [work]
 horizontal: true
 ---
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+         {%- for project in sorted_projects -%}
+            {% include projects_horizontal.html %}
+          {%- endfor %}
+    </div>
+</div>
+
+
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
