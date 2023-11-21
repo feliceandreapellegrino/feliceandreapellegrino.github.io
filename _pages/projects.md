@@ -10,13 +10,20 @@ horizontal: true
 ---
 
 {%- assign sorted_projects = site.projects | sort: "importance" -%}
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-         {%- for project in sorted_projects -%}
+<div class="container">
+  <div class="row">
+    {%- for project in sorted_projects -%}
+      <div class="col">
+        <div class="card">
+          <div class="card-body">
             {% include projects_horizontal.html %}
-          {%- endfor %}
-    </div>
+          </div>
+        </div>
+      </div>
+    {%- endfor %}
+  </div>
 </div>
+
 
 
 <!-- pages/projects.md -->
