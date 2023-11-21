@@ -5,10 +5,11 @@ permalink: /projects/
 description: Some projects and opportunities
 nav: true
 nav_order: 6
-display_categories: [work]
+display_categories:
 horizontal: true
 ---
 
+{%- assign sorted_projects = site.projects | sort: "importance" -%}
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
          {%- for project in sorted_projects -%}
