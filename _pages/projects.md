@@ -11,9 +11,9 @@ horizontal: true
 
 {%- assign sorted_projects = site.projects | sort: "importance" -%}
     {%- for project in sorted_projects -%}
-        <div class="card">
+          <div class="card-body">
             {% include projects_horizontal.html %}
-        </div>
+          </div>
    {%- endfor %}
 
 
