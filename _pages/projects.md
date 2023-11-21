@@ -10,8 +10,6 @@ horizontal: true
 ---
 
 {%- assign sorted_projects = site.projects | sort: "importance" -%}
-<div class="container">
-  <div class="row">
     {%- for project in sorted_projects -%}
       <div class="col">
         <div class="card">
@@ -21,8 +19,7 @@ horizontal: true
         </div>
       </div>
     {%- endfor %}
-  </div>
-</div>
+
 
 
 
