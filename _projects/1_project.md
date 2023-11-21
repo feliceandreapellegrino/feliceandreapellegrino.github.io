@@ -2,7 +2,7 @@
 layout: page
 title: Differentiable Rendering for Robotics
 description: differentiable rendering for visual servoing, with application to smart manufacturing
-img: assets/img/rendering_compressed.gif
+img: assets/img/block_scheme_small.png
 importance: 1
 category: work
 related_publications: 
