@@ -8,19 +8,22 @@ category: work
 related_publications: 
 ---
 <div>
-A two-year fellowship focusing on Differentiable Rendering for Robotics is now open for applications. The topic is at the intersection of Computer Vision, Optimization and Robotics (see the brief description below). Call and application form: 
+A two-year fellowship focusing on Differentiable Rendering for Robotics is now open for applications. The topic is at the intersection of Computer Vision, Optimization and Robotics (see the brief description below).<br>
+Call and application form: 
 <a href="https://pica.cineca.it/units/23ar1051-10fse/">https://pica.cineca.it/units/23ar1051-10fse/</a>.
+<br>
 Feel free to contact me for further information.
-<\div>
+</div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/rendering_compressed.gif" title="rendering" %}
     </div>
 </div>
 <div class="caption">
-    single-camera pose estimation via differentiable rendering.
+    Single-camera pose estimation via differentiable rendering
 </div>
 
 <div>
 Pose estimation consists of determining the position and orientation of an object with respect to a reference frame. Rendering consists of modelling the physical formation of an image, generating a synthetic image of an object that can be interpreted as a parametric function of its pose. A differentiable renderer, with a suitable optimization algorithm, can be used to estimate the pose by maximizing the similarity between the real and the synthetic image of an object. The research project aims to use a differentiable renderer for image-based control of a robot (visual servoing). The idea is based on recent advances in optimization applied to artificial intelligence and aims to control the robot using feedback information from a camera placed on the robot itself. The research project has many significant applications to smart manufacturing.
-
+</div>
