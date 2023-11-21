@@ -8,7 +8,7 @@ category: work
 related_publications: 
 ---
 <div>
-A two-year fellowship focusing on Differentiable Rendering for Robotics is now open for applications. The topic is at the intersection of Computer Vision, Optimization and Robotics (see the brief description below).<br>
+A two-year fellowship at University of Trieste, focusing on Differentiable Rendering for Robotics, is now open for applications. The topic is at the intersection of Computer Vision, Optimization and Robotics (see the brief description below).<br>
 Call and application form: 
 <a href="https://pica.cineca.it/units/23ar1051-10fse/">https://pica.cineca.it/units/23ar1051-10fse/</a>.
 <br>
