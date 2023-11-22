@@ -8,7 +8,7 @@ category: work
 related_publications: 
 ---
 <div>
-A <a href="https://euraxess.ec.europa.eu/jobs/166409">two-year fellowship at University of Trieste</a>, focusing on Differentiable Rendering for Robotics, is now open for applications (deadline: December 15, 2023). The topic is an interdisciplinary one, at the intersection of Computer Vision, Optimization and Robotics (see the brief description below).<br>
+A <a href="https://euraxess.ec.europa.eu/jobs/166409">two-year fellowship at University of Trieste</a>, focusing on Differentiable Rendering for Robotics, is now <strong>open for applications</strong> (deadline: December 15, 2023).<br>
 Call and application form: 
 <a href="https://pica.cineca.it/units/23ar1051-10fse/">https://pica.cineca.it/units/23ar1051-10fse/</a>.
 <br>
