@@ -21,7 +21,7 @@ The timetable is as follows:
 
 Students are encouraged to [register for the course on Moodle](https://moodle2.units.it/course/view.php?id=12335">https://moodle2.units.it/course/view.php?id=12335). There, I will publish the updated teaching material and the tutorial code. Furthermore, all communications relating to the course will be sent to Moodle subscribers.
 
-<!-- ## computer vision and pattern recognition 2023
+## computer vision and pattern recognition 2023
 The course will start on **Tuesday, October 3, 2023**.
 
 The timetable is as follows:
@@ -34,7 +34,7 @@ The timetable is as follows:
 
 &nbsp;  
 
-Students are encouraged to [register for the course on Moodle](https://moodle2.units.it/course/view.php?id=11338">https://moodle2.units.it/course/view.php?id=11338). There, I will publish the updated teaching material and the tutorial code. Furthermore, all communications relating to the course will be sent to Moodle subscribers. -->
+Students are encouraged to [register for the course on Moodle](https://moodle2.units.it/course/view.php?id=11338">https://moodle2.units.it/course/view.php?id=11338). There, I will publish the updated teaching material and the tutorial code. Furthermore, all communications relating to the course will be sent to Moodle subscribers. 
 
 ## office hours
 Send me an email to arrange a meeting (possibly specifying your preferred day and time).
