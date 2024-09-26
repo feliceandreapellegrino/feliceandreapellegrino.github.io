@@ -298,8 +298,8 @@ scholar:
   group_by: type,year
   group_order: ascending
   type_names: { article: Papers, inproceedings: Conference Papers, submitted: Submitted}
-@incollection{Carrato2015,
-  type_order: [submitted, article, inproceeding,techreport ,phdthesis,misc]
+
+  type_order: [submitted, article, inproceeding,incollection,techreport ,phdthesis,misc]
 
 badges: # Display different badges for your publications
   altmetric_badge: false # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
