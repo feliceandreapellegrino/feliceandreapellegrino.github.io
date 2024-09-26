@@ -299,7 +299,7 @@ scholar:
   order: descending
   group_by: type
   group_order: ascending
-  type_names: { article: Papers, inproceedings: Conference Papers, submitted: Submitted}
+  type_names: { article: Journal Papers, inproceedings: Conference Papers, submitted: Submitted Papers}
 
   type_order: [submitted, article, inproceeding,incollection,techreport ,phdthesis,misc]
 
