@@ -295,8 +295,8 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: type,year
   order: ascending,descending
+  group_by: type,year
   group_order: ascending
   type_names: { article: Papers, inproceedings: Conference Papers, submitted: Submitted}
 
