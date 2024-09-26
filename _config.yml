@@ -301,7 +301,7 @@ scholar:
   group_order: ascending
   type_names: { article: Journal Papers, inproceedings: Conference Papers, submitted: Submitted Papers}
 
-  type_order: [submitted, article, inproceeding,incollection,techreport ,phdthesis,misc]
+  type_order: [submitted, article, inproceedings, incollection, techreport, phdthesis, misc]
 
 badges: # Display different badges for your publications
   altmetric_badge: false # Altmetric badge (https://www.altmetric.com/products/altmetric-badges/)
