@@ -296,7 +296,7 @@ scholar:
 
   query: "@*"
   group_by: type,year
-  order: ascending, descending
+  order: ascending,descending
   group_order: ascending
   type_names: { article: Papers, inproceedings: Conference Papers, submitted: Submitted}
 
