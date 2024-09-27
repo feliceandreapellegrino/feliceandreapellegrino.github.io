@@ -567,12 +567,13 @@ footer.sticky-bottom {
     }
   }
 
+  //margin-bottom cambiato da me, era -2rem
   h2.bibliography {
     color: var(--global-divider-color);
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
-    margin-bottom: -2rem;
+    margin-bottom: 0rem; 
     text-align: right;
   }
 
