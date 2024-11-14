@@ -30,3 +30,5 @@ I teach [Control Theory](https://moodle2.units.it/course/search.php?search=322MI
 My research interests include Control Theory, Machine Learning, Robotics, and Machine Vision.
 
 I'm a Co-founder of [Glance Vision Technologies](https://www.gvt.it/).
+
+I'm a proud member of postpunk/psych/dub/wave band [Sanlorenzo](https://open.spotify.com/intl-it/artist/1aq5hx9lKx7DKYdq3nw40p?si=nsPMYONcTq2QCmyoeQGrig).
