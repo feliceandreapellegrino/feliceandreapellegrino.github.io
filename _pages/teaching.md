@@ -6,21 +6,21 @@ description: general information about the courses I teach.
 nav: true
 nav_order: 5
 ---
-<!-- ## control theory 2023
-The course will start on **Monday, March 4, 2024**.
+## control theory 2024
+The course will start on **Monday, March 3, 2025**.
 
 The timetable is as follows:
 
 | day         | time        | room     |
 | :---        |    :---   |          :--- |
-| Monday      | 11-14       | Tecnologie, building C5   |
-| Tuesday   | 10-12        | A, building C2      |
-| Thursday   | 10-12        | 2 Meccanica Applicata, building C5      |
+| Monday      | 09-11       | A Idraulica, building C2   |
+| Tuesday   | 09-11        | Arich, building B      |
+| Thursday   | 11-14        | V, building G      |
 
 &nbsp;  
 
-Students are encouraged to [register for the course on Moodle](https://moodle2.units.it/course/view.php?id=12335). There, I will publish the updated teaching material and the tutorial code. Furthermore, all communications relating to the course will be sent to Moodle subscribers.
- -->
+Students are encouraged to [register for the course on Moodle](https://moodle2.units.it/course/view.php?id=15122). There, I will publish the updated teaching material and the tutorial code. Furthermore, all communications relating to the course will be sent to Moodle subscribers.
+
 ## computer vision and pattern recognition 2024
 The course will start on **Thursday, October 3, 2024**. 
 
