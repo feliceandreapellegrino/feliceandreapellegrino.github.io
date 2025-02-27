@@ -15,7 +15,7 @@ The timetable is as follows:
 | :---        |    :---   |          :--- |
 | Monday      | 09-11       | A Idraulica, building C2   |
 | Tuesday   | 09-11        | Arich, building B      |
-| Thursday   | 11-14        | V, building G      |
+| Friday   | 11-14        | V, building G      |
 
 &nbsp;  
 
