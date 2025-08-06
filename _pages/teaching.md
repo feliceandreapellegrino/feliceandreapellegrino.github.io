@@ -6,6 +6,7 @@ description: general information about the courses I teach.
 nav: true
 nav_order: 5
 ---
+<!--
 ## control theory 2024
 The course will start on **Monday, March 3, 2025**.
 
@@ -20,23 +21,23 @@ The timetable is as follows:
 &nbsp;  
 
 Students are encouraged to [register for the course on Moodle](https://moodle2.units.it/course/view.php?id=15122). There, I will publish the updated teaching material and the tutorial code. Furthermore, all communications relating to the course will be sent to Moodle subscribers.
+-->
 
-<!--
-## computer vision and pattern recognition 2024
-The course will start on **Thursday, October 3, 2024**. 
+## computer vision and pattern recognition 2025
+The course will start on **Monday, September 22, 2025**. 
 
 The timetable is as follows:
 
 | day         | time        | room     |
 | :---        |    :---   |          :--- |
-| Monday      | 9-12       | 5C, building H2bis   |
-| Thursday   | 15-17       | 5C, building H2bis   |
+| Monday      | 9-12       | 5B, building H2bis   |
+| Friday   | 13-15       | 3B, building H2bis   |
 
 &nbsp; 
 
-Students are encouraged to [register for the course on Moodle](https://moodle2.units.it/course/view.php?id=14024). There, I will publish the updated teaching material and the tutorial code. Furthermore, all communications relating to the course will be sent to Moodle subscribers. 
+Students are encouraged to [register for the course on Moodle](https://moodle2.units.it/course/view.php?id=15537). There, I will publish the updated teaching material and the tutorial code. Furthermore, all communications relating to the course will be sent to Moodle subscribers. 
 
--->
+
 
 ## office hours
 Send me an email to arrange a meeting (possibly specifying your preferred day and time).
