@@ -15,6 +15,13 @@
       institution: Department of Engineering and Architecture, University of Trieste, Trieste (Italy).
       year: from 2017
 
+- title: Academic Qualifications
+  type: time_table
+  contents:
+    - year: 2025
+      items: 
+        - National Scientific qualification as full professor in the Italian higher education system for the disciplinary field of 09/G1 - Systems and control engineering.
+        
 - title: Academic Interests
   type: nested_list
   contents:
@@ -31,13 +38,6 @@
       items:
         - Neural network pruning
         - Explainable AI
-
-- title: Qualifications
-  type: time_table
-  contents:
-    - year: from 2025
-      items: 
-        - National Scientific qualification as full professor in the Italian higher education system for the disciplinary field of 09/G1 - Systems and control engineering.
    
 - title: Education
   type: time_table
@@ -78,7 +78,7 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: from 2023
+    - year: 2023
       items: 
         - IEEE Senior Member
 
