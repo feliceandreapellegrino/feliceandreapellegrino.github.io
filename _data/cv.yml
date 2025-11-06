@@ -18,8 +18,10 @@
 - title: Academic Qualifications
   type: time_table
   contents:
-    - year: 2025
-      items: 
+    - title: National Scientific qualification as full professor
+      institution: Italian Ministry of University and Research 
+      year: 2025
+      description: 
         - National Scientific qualification as full professor in the Italian higher education system for the disciplinary field of 09/G1 - Systems and control engineering.
         
 - title: Academic Interests
