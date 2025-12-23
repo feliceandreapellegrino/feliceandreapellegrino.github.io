@@ -1,6 +1,6 @@
 @submitted{drones,
 title = {Optimal damping in decentralized formation control},
-note = {submitted to {Robotics and Autonomous Systems}},
+note = {submitted to {Systems \& Control Letters}},
 author = {Erica Salvato and Alberto Trevisan and Franco Blanchini and Gianfranco Fenu and Felice Andrea Pellegrino},
 abstract = {We address the problem of formation control in multi--agent systems tasked with tracking a leader--imposed trajectory.
 Inter--agent interactions are encoded by a graph, with each node representing an agent that uses only relative position and velocity information from its neighbors for control. 
@@ -21,13 +21,21 @@ Theoretical findings are validated through both simulations and real-world exper
   abstract={Data extraction from the labels of natural history specimens is a pivotal task for the online publication of digital specimens. However, this is an extremely time-consuming task, given the estimated number of specimens in natural history collections (400 million worldwide). Thus, automated data extraction from digital images of specimens and their labels is an application where state-of-the-art computer vision techniques could successfully be applied. The task of extracting information from the labels of herbarium specimens is made of three steps: text segmentation, multilingual/handwriting recognition, and data parsing. The principal bottleneck in the process is the limitation of Optical Character Recognition (OCR). This study aims to explore how to transfer the general knowledge present in multimodal Transformers into the specific sub-task of herbarium specimen label digitization. This would result in an easy-to-use, end-to-end solution, which strives to get rid of the bottleneck of classic OCR systems, while allowing for higher flexibility to adapt to different label formats. Donut-base, a pre-trained visual document understanding (VDU) transformer, was the base model selected for fine-tuning. A dataset from the University of Pisa was used as a first test bed. The initial attempt achieved an 85% accuracy computed by the Tree Edit Distance (TED), demonstrating that fine-tuning is a feasible solution. Cases with low accuracies were also investigated to highlight flaws in the approach. Specimens with more than one label, especially when a mix of different handwriting and typewritten information were present, are the most difficult to deal with, and approaches aimed at targeting these weaknesses are discussed.}
   }
   
-@submitted{percacci2025SRS,
-  author={Percacci, Riccardo and Pellegrino, Felice Andrea and Braitenberg, Carla},
- journal = {{Remote Sensing}},
- note = {submitted to {Remote Sensing}},
-  title={Detection and Monitoring of Volcanic Islands in Tonga from Remote Sensing Data},
-  abstract={This work presents an automated method for detecting and monitoring volcanic islands in the Tonga archipelago using Sentinel-2 satellite imagery. At its core, the method combines a U-Net-based convolutional neural network (CNN) for semantic segmentation with a custom change detection algorithm, enabling the identification of land-water boundaries and the tracking of volcanic island dynamics over time. The algorithm analyzes morphological changes through image comparison and Intersection over Union (IoU) metrics, capturing the emergence, disappearance, and evolution of volcanic islands. The segmentation model, trained on a custom dataset of Pacific Ocean imagery, achieved a IoU score of 97.36\% on the primary test dataset and 83.54\% on a subset of challenging cases involving small, recently formed volcanic islands. Generalization capability was validated using the SNOWED dataset, where the segmentation model attained an IoU of 81.02\%. Applied to recent volcanic events, the workflow successfully detected changes in island morphology and provided historical time-series analyses. Challenges like cloud cover and volcanic smoke were addressed through a cloudiness filter. The coarser temporal resolution resulting from image rejection was mitigated by considering thermal anomaly data to identify volcanic activity and fill gaps. This integrated system offers potential applications in geophysical studies, navigation safety, and environmental monitoring in tectonically active regions.}
-  }
+
+@article{percacci2025,
+AUTHOR = {Percacci, Riccardo and Pellegrino, Felice Andrea and Braitenberg, Carla},
+TITLE = {Detection and Monitoring of Volcanic Islands in Tonga from Sentinel-2 Data},
+JOURNAL = {Remote Sensing},
+VOLUME = {18},
+YEAR = {2026},
+NUMBER = {1},
+ARTICLE-NUMBER = {42},
+URL = {https://www.mdpi.com/2072-4292/18/1/42},
+ISSN = {2072-4292},
+ABSTRACT = {This work presents an automated method for detecting and monitoring volcanic islands in the Tonga archipelago using Sentinel-2 satellite imagery. The method is able to detect newly created islands, as well as an increase in island size, a possible precursor to an explosion due to magma chamber inflation. At its core, the method combines a U-Net-type convolutional neural network (CNN) for semantic segmentation with a custom change detection algorithm, enabling the identification of land–water boundaries and the tracking of volcanic island dynamics. The algorithm analyzes morphological changes through image comparison and Intersection over Union (IoU), capturing the emergence, disappearance, and evolution of volcanic islands. The segmentation model, trained on a custom dataset of Pacific Ocean imagery, achieved an IoU score of 97.36% on the primary test dataset and 83.54% on a subset of challenging cases involving small, recently formed volcanic islands. Generalization capability was validated using the SNOWED dataset, where the segmentation model attained an IoU of 81.02%. Applied to recent volcanic events, the workflow successfully detected changes in island morphology and provided time-series analyses. Practical feasibility of the methodology was assessed by testing it on a large region in Tonga, using an HPC cluster. This system offers potential applications for geophysical studies and navigation safety in volcanically active regions.},
+DOI = {10.3390/rs18010042}
+}
+
 
 @article{SALVATO2025105045,
 title = {Position-based visual servo control without hand-eye calibration},
