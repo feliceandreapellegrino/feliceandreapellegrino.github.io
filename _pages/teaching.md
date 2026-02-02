@@ -6,23 +6,22 @@ description: general information about the courses I teach.
 nav: true
 nav_order: 5
 ---
-<!--
-## control theory 2024
-The course will start on **Monday, March 3, 2025**.
+
+## control theory 2025
+The course will start on **Thursday, February 26, 2026**.
 
 The timetable is as follows:
 
 | day         | time        | room     |
 | :---        |    :---   |          :--- |
-| Monday      | 09-11       | A Idraulica, building C2   |
-| Tuesday   | 09-11        | Arich, building B      |
-| Friday   | 11-14        | V, building G      |
+| Thursday      | 16-19       | B, building C9   |
+| Friday   | 08-11        | C, building B      |
 
 &nbsp;  
 
-Students are encouraged to [register for the course on Moodle](https://moodle2.units.it/course/view.php?id=15122). There, I will publish the updated teaching material and the tutorial code. Furthermore, all communications relating to the course will be sent to Moodle subscribers.
--->
+Students are encouraged to [register for the course on Moodle](https://moodle2.units.it/course/view.php?id=16400). There, I will publish the updated teaching material and the tutorial code. Furthermore, all communications relating to the course will be sent to Moodle subscribers.
 
+<!--
 ## computer vision and pattern recognition 2025
 The course will start on **Monday, September 22, 2025**. 
 
@@ -45,6 +44,7 @@ Send me an email to arrange a meeting (possibly specifying your preferred day an
 How to get to my room:
 <video src="https://user-images.githubusercontent.com/47215410/271945836-be66b942-61df-4217-854e-b4dcfad3a40b.mp4" data-canonical-src="https://user-images.githubusercontent.com/47215410/271945836-be66b942-61df-4217-854e-b4dcfad3a40b.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px">
 </video>
+-->
 
 <!-- 
  <div  id="test">
