@@ -31,4 +31,5 @@ My research interests include Control Theory, Machine Learning, Robotics, and Ma
 
 I'm a Co-founder of [Glance Vision Technologies](https://www.gvt.it/).
 
-I'm a proud member of postpunk/psych/dub/wave band [Sanlorenzo](https://open.spotify.com/intl-it/artist/1aq5hx9lKx7DKYdq3nw40p?si=nsPMYONcTq2QCmyoeQGrig). Our latest [videoclip](https://www.youtube.com/watch?v=tMLRuRsU_yw) and [another one](https://youtu.be/pjFytgL3zIQ?si=rAdt4VWBnerWazEY&t=4). Our latest [live performance](https://www.youtube.com/watch?v=kG4BYQNUjUE&t=1s). I recently joined the horn section of the fabulous [GangBand](https://www.gangband.it) as tenor saxophonist. 
+I'm a proud member of postpunk/psych/dub/wave band [Sanlorenzo](https://open.spotify.com/intl-it/artist/1aq5hx9lKx7DKYdq3nw40p?si=nsPMYONcTq2QCmyoeQGrig). Our latest [videoclip](https://www.youtube.com/watch?v=tMLRuRsU_yw) and [another one](https://youtu.be/pjFytgL3zIQ?si=rAdt4VWBnerWazEY&t=4). Our latest [live performance](https://www.youtube.com/watch?v=kG4BYQNUjUE&t=1s). 
+On the funk side, I recently joined the horn section of the fabulous [GangBand](https://www.gangband.it) as tenor saxophonist. 
