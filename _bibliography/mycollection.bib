@@ -1,3 +1,30 @@
+@submitted{pellegrino2026,
+title ={Singularity and Collision Avoidance in Robotic Manufacturing via Augmented Manipulator and Barrier Functions},
+note = {submitted to {Robotics and Autonomous Systems}},
+author = {Felice Andrea Pellegrino and Erica Salvato and Walter Vanzella},
+abstract ={In several robotic manufacturing processes, limited deviations from the nominal end-effector trajectory are admissible along specific directions or rotation axes. 
+Such tolerances introduce exploitable functional redundancy that can be used to enhance collision avoidance and singularity robustness. 
+This paper proposes a computationally efficient inverse kinematics framework that models admissible task mismatches as a virtual joint, resulting in an augmented manipulator formulation. 
+Redundancy resolution is performed on the augmented system, while barrier functions ensure that the virtual coordinate remains within the allowable bounds. 
+Unlike quadratic programming-based constrained inverse kinematics approaches, the proposed method preserves the classical Jacobian pseudoinverse structure and avoids solving constrained optimization problems online. 
+The approach is validated on two industrial case studies---robotic wire sawing and spray painting---demonstrating effective collision avoidance and singularity mitigation while respecting process tolerances. 
+The method is particularly suitable for manufacturing applications requiring computational simplicity and real-time execution.}
+}
+
+submitted{ROCHovorka2026,
+title = {Relatively optimal control of the {H}ovorka model for safe insulin delivery},
+note = {submitted to {IEEE Access}},
+author = {Erica Salvato and Gianfranco Fenu and Felice Andrea Pellegrino and Davide Martino Raimondo and Franco Blanchini},
+abstract = {Relatively optimal control provides a stabilizing feedback law that guarantees optimality with respect to
+a prescribed initial condition. This paradigm is well-suited for systems whose primary objective is the repeated execution of a specific operation. In artificial pancreas appli-
+cations, such an operation corresponds to insulin delivery following meal intake. In this paper, a relatively optimal control strategy is developed for an insulin-glucose regulation system. The
+proposed approach combines a robust state observer —implemented either as a dedicated robust observer or as
+a Kalman filter— with a Model Predictive Control (MPC) scheme, yielding closed-loop stability and optimality for the
+nominal initial condition. A key feature of the proposed framework is its ability to
+handle uncertainties explicitly, in particular those associated with meal-induced glucose disturbances, by exploiting
+the monotonicity properties of the underlying system. This structure allows the computation of guaranteed upper and lower bounds on blood glucose trajectories in real time, providing interval predictions of glycaemia that are critical for patient safety.}
+}
+
 @submitted{drones,
 title = {Optimal damping in decentralized formation control},
 note = {submitted to {Systems \& Control Letters}},
