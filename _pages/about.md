@@ -6,8 +6,8 @@ subtitle: Professor at University of Trieste, Co-founder of Glance Vision Techno
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: prof_pic_2.jpg
+  image_circular: true # crops the image to make it circular
   address: >
     <p>room C3_2.20</p>
     <p>building C3</p>
