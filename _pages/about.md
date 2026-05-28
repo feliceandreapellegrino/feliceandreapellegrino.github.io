@@ -34,8 +34,7 @@ vision of Industry 5.0.**
 
 At the university I teach [Control Theory](https://moodle2.units.it/course/search.php?search=322MI) and [Computer Vision and Pattern Recognition](https://moodle2.units.it/course/search.php?search=554sm). If you're a company or organisation interested in collaborating, or simply curious about what we do, feel free to get in touch — I'm always open to a conversation.
 
-There is more to life than research and teaching, of course.
-I'm a proud member of postpunk/psych/dub/wave band [Sanlorenzo](https://open.spotify.com/intl-it/artist/1aq5hx9lKx7DKYdq3nw40p?si=nsPMYONcTq2QCmyoeQGrig).
+Beyond academia, I'm a proud member of postpunk/psych/dub/wave band [Sanlorenzo](https://open.spotify.com/intl-it/artist/1aq5hx9lKx7DKYdq3nw40p?si=nsPMYONcTq2QCmyoeQGrig).
 You can find our latest [videoclip](https://youtu.be/8xaqFChd9oU?si=XrdwEquUDxRlHrAQ) and [another recent one](https://www.youtube.com/watch?v=tMLRuRsU_yw) online, along with a recorded [live performance](https://www.youtube.com/watch?v=kG4BYQNUjUE&t=1s).
 On the funk side, I recently joined the horn section of the fabulous [GangBand](https://www.gangband.it) as tenor saxophonist.
 
