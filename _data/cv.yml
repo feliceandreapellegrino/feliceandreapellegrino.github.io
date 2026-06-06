@@ -27,7 +27,7 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Control systems
+    - title: Control Systems
       items: 
         - Data-driven control
         - Model-free control
@@ -36,7 +36,7 @@
         - Robust kinematic control
         - Differentiable rendering for visual servoing
         - Smart manufacturing
-    - title: Machine learning
+    - title: Machine Learning
       items:
         - Neural network pruning
         - Explainable AI
