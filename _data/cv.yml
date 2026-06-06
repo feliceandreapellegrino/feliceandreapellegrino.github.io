@@ -18,11 +18,11 @@
 - title: Academic Qualifications
   type: time_table
   contents:
-    - title: National Scientific qualification as full professor
+    - title: National Scientific Qualification as Full Professor
       institution: Italian Ministry of University and Research 
       year: 2025
       description: 
-        - National Scientific qualification as full professor in the Italian higher education system for the disciplinary field of 09/G1 - Systems and control engineering.
+        - National Scientific Qualification as Full Professor in the Italian higher education system for the disciplinary field of 09/G1 - Systems and control engineering.
         
 - title: Academic Interests
   type: nested_list
@@ -44,13 +44,13 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD degree in Systems and Control Theory
+    - title: PhD Degree in Systems and Control Theory
       institution: University of Udine, Udine (Italy)
       year: 2005
       description:
         - Constrained and Optimal Control (under the supervision of Prof. Franco Blanchini).
 
-    - title: Master's degree in Industrial Engineering and Management
+    - title: Master's Degree in Industrial Engineering and Management
       institution: University of Udine, Udine (Italy)
       year: 2000
       description:
