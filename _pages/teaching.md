@@ -7,6 +7,22 @@ nav: true
 nav_order: 5
 ---
 
+## computer vision and pattern recognition 2026
+The course will start on **Tuesday, September 22, 2026**. 
+
+The timetable is as follows:
+
+| day         | time        | room     |
+| :---        |    :---   |          :--- |
+| Tuesday      | 8-11       | 4A, building D   |
+| Friday   | 15-17       | 5B, building H2bis   |
+
+&nbsp; 
+
+Students are encouraged to [register for the course on Moodle](https://moodle2.units.it/course/view.php?id=16812). There, I will publish the updated teaching material and the tutorial code. Furthermore, all communications relating to the course will be sent to Moodle subscribers. 
+
+<!--
+
 ## control theory 2025
 The course will start on **Thursday, February 26, 2026**.
 
@@ -20,6 +36,8 @@ The timetable is as follows:
 &nbsp;  
 
 Students are encouraged to [register for the course on Moodle](https://moodle2.units.it/course/view.php?id=16400). There, I will publish the updated teaching material and the tutorial code. Furthermore, all communications relating to the course will be sent to Moodle subscribers.
+
+-->
 
 ## office hours
 Send me an email to arrange a meeting (possibly specifying your preferred day and time).
