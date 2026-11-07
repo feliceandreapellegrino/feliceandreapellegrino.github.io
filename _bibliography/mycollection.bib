@@ -1,3 +1,20 @@
+@submitted{SALVATO2026rollout,
+  title = {Improving Data-Driven Relatively Optimal Control by Constrained Rollout},
+  note = {submitted to {European Control Conference 2027}},
+  author = {Erica Salvato and Felice Andrea Pellegrino and Franco Blanchini},
+  abstract = {Data-driven relatively optimal control (ROC) reproduces
+      prescribed constrained optimal trajectories but, under constraints, is suboptimal away from the prescribed initial
+      conditions. We show that the ROC data allow us to compute, in closed
+      form, all ingredients needed to reduce this suboptimality---an admissible set, a cost-to-go, and a Lyapunov function. At each step, a correction is added to the ROC input by
+      minimizing the stage cost plus the ROC cost-to-go, subject to the input constraints, the admissible set, and a
+      Lyapunov decrease condition. A scaling factor that vanishes on the prescribed trajectories ensures that the correction
+      is suppressed there, preserving the optimal trajectories exactly. 
+      The resulting law is explicit for scalar input, never worse than the ROC, and preserves the prescribed trajectories
+      exactly while guaranteeing recursive feasibility, constraint satisfaction, and exponential stability. 
+      On a double integrator and a cart--pole, where the ROC exceeds the optimal cost by $31\%$ and $34\%$ in median, it
+      recovers $96\%$ and $83\%$ of this gap, outperforming a residual policy trained by reinforcement learning.}
+}
+
 @submitted{SALVATO2026saturation,
   title = {Decentralized Speed--Saturated Formation Control},
   note = {submitted to {Automatica}},
